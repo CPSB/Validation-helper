@@ -12,7 +12,7 @@ class ConfigTest extends TestCase
 
         $this->assertFileNotExists($configFile);
         Artisan::call('vendor:publish', [
-            '--provider' => 'Sahib\Form\FormServiceProvider',
+            '--provider' => 'ActivismeBE\FormHelper\FormServiceProvider',
         ]);
 
         $this->assertFileExists($configFile);
