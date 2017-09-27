@@ -5,6 +5,9 @@ use Illuminate\Support\MessageBag;
 use Illuminate\Support\ViewErrorBag; 
 use ActivismeBE\FormHelper\FormServiceProvider;
 
+/**
+ * Class TestCase
+ */
 class TestCase extends \Illuminate\Foundation\Testing\TestCase
 {
     /**

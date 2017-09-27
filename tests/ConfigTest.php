@@ -3,6 +3,9 @@
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Artisan;
 
+/**
+ * Class ConfigTest
+ */
 class ConfigTest extends TestCase
 {
     /** @test */
