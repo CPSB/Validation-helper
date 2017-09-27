@@ -1,8 +1,11 @@
 <?php 
 
 use ActivismeBE\FormHelper\Form;
-use Illuminate\Database\Eloquent\Model; 
+use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Class ValueTest
+ */
 class ValueTest extends TestCase 
 {
     /** @test */

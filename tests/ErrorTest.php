@@ -1,5 +1,8 @@
-<?php 
+<?php
 
+/**
+ * Class ErrorTest
+ */
 class ErrorTest extends TestCase 
 {
     /** @test */

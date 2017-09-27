@@ -1,7 +1,10 @@
 <?php 
 
-use Illuminate\Database\Eloquent\Model; 
+use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Class TextTest
+ */
 class TextTest extends TestCase 
 {
     /** @test */

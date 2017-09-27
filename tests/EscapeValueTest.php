@@ -1,5 +1,8 @@
-<?php 
+<?php
 
+/**
+ * Class EscapeValueTest
+ */
 class EscapeValueTest extends TestCase 
 {
     /** @test */
