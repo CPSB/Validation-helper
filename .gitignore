@@ -1,5 +1,5 @@
 /.idea
-/.vs-code
+/.vscode
 /vendor
 composer.lock
 *.sublime-project
