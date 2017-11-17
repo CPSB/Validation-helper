@@ -5,6 +5,11 @@ namespace ActivismeBE\FormHelper;
 use Illuminate\Session\Store; 
 use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Class Form
+ *
+ * @package ActivismeBE\FormHelper
+ */
 class Form 
 {
     /**

@@ -2,6 +2,9 @@
 
 use Illuminate\Database\Eloquent\Model;
 
+/**
+ * Class CheckboxTest
+ */
 class CheckboxTest extends TestCase
 {
     /** @test */

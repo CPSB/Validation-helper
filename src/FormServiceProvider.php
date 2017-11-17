@@ -5,6 +5,11 @@ namespace ActivismeBE\FormHelper;
 use Illuminate\Support\Facades\Blade; 
 use Illuminate\Support\ServiceProvider;
 
+/**
+ * Class FormServiceProvider
+ *
+ * @package ActivismeBE\FormHelper
+ */
 class FormServiceProvider extends ServiceProvider 
 {
     /**
